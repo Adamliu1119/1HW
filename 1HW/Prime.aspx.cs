@@ -22,7 +22,7 @@ namespace _1HW
             }
             if (count == 2)
             {
-                Response.Write("YES");
+                Response.Write("YES1");
             }
             else
             {
